@@ -81,9 +81,17 @@ public class MainActivity extends AppCompatActivity implements EasyPermissions.P
 		
 		mCallApiButton = findViewById(R.id.signButton);
 		
-		prefGmail.edit().putString("to", "systemxyz1@gmail.com").apply();
 		
+		//*********************************************************************
+		//*********************************************************************
+		//*********************************************************************
 		
+		//kendi mail adresini yaz
+		//prefGmail.edit().putString("to", "systemxyz1@gmail.com").apply();
+		
+		//*********************************************************************
+		//*********************************************************************
+		//*********************************************************************
 		notificationButton = findViewById(R.id.notificationButton);
 		
 		
