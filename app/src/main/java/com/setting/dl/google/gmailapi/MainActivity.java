@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity implements EasyPermissions.P
 		//*********************************************************************
 		//*********************************************************************
 		
-		//kendi mail adresini yaz
+		// TODO yorumu aç ve kendi mail adresini yaz
 		//prefGmail.edit().putString("to", "systemxyz1@gmail.com").apply();
 		
 		//*********************************************************************
