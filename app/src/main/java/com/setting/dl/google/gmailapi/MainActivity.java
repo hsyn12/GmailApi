@@ -92,6 +92,8 @@ public class MainActivity extends AppCompatActivity implements EasyPermissions.P
 		//*********************************************************************
 		//*********************************************************************
 		//*********************************************************************
+		
+		
 		notificationButton = findViewById(R.id.notificationButton);
 		
 		
