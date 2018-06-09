@@ -5,7 +5,7 @@ android {
         config {
             keyAlias 'android'
             keyPassword 'android'
-            storeFile file('F:/works/android/android_3/GmailApi/gmail.jks')
+            storeFile file('E:\\works\\android\\android_3\\GmailApi\\gmail.jks')
             storePassword 'android'
         }
     }
